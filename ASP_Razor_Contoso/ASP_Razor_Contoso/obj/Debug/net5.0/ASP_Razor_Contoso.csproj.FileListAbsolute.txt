@@ -157,3 +157,8 @@ C:\Users\Mauro\Desktop\asp-razor-contoso-mauroidnunes\ASP_Razor_Contoso\ASP_Razo
 C:\Users\Mauro\Desktop\asp-razor-contoso-mauroidnunes\ASP_Razor_Contoso\ASP_Razor_Contoso\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Mauro\Desktop\asp-razor-contoso-mauroidnunes\ASP_Razor_Contoso\ASP_Razor_Contoso\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Mauro\Desktop\asp-razor-contoso-mauroidnunes\ASP_Razor_Contoso\ASP_Razor_Contoso\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mauro\Desktop\asp-razor-contoso-mauroidnunes\ASP_Razor_Contoso\ASP_Razor_Contoso\obj\Debug\net5.0\Razor\Pages\Students\Create.cshtml.g.cs
+C:\Users\Mauro\Desktop\asp-razor-contoso-mauroidnunes\ASP_Razor_Contoso\ASP_Razor_Contoso\obj\Debug\net5.0\Razor\Pages\Students\Delete.cshtml.g.cs
+C:\Users\Mauro\Desktop\asp-razor-contoso-mauroidnunes\ASP_Razor_Contoso\ASP_Razor_Contoso\obj\Debug\net5.0\Razor\Pages\Students\Details.cshtml.g.cs
+C:\Users\Mauro\Desktop\asp-razor-contoso-mauroidnunes\ASP_Razor_Contoso\ASP_Razor_Contoso\obj\Debug\net5.0\Razor\Pages\Students\Edit.cshtml.g.cs
+C:\Users\Mauro\Desktop\asp-razor-contoso-mauroidnunes\ASP_Razor_Contoso\ASP_Razor_Contoso\obj\Debug\net5.0\Razor\Pages\Students\Index.cshtml.g.cs
