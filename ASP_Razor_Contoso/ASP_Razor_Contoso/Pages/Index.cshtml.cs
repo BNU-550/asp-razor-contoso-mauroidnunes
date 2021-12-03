@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ASP_Razor_Contoso.Pages
+namespace ASP_RazorContoso.Pages
 {
     public class IndexModel : PageModel
     {
